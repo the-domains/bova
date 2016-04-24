@@ -1,0 +1,28 @@
+name: bova
+favicon: null
+layout_spectrum: 0.16989303519949317
+typography_spectrum: 0.23204708169214427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7352553075179458
+  lightness: 0.526697377441451
+  saturation: 0.3801072265487164
+  rhythmicContrast: 0.2836426398716867
+purpose: []
